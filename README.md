@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="https://twitter.com/C4zt3r/status/1438275374186647562"/>
 <!--
 **LsfrCastillo/LsfrCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
