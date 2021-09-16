@@ -16,7 +16,7 @@
 - Creacion de Videojuego
 
 ### 🛠 Interesado en:
-- Programar, VideoJuegos, Soporte Tecnico, Mejorar mis habilidades, Pixel Art.
+- Programar, VideoJuegos, Soporte Tecnico, Mejorar mis habilidades, Pixel Art, Fotografia.
 
 ### 🎯 Objetivos
 - Mejorar mi Ingles
