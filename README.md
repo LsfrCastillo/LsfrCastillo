@@ -5,7 +5,7 @@
 - JavaScript
 
 ### 😍 Cosas que me gustan:
-- Me gustan los desafios, Escuchar musica, Problemas Logicos, Ayudar, Que me ayuden, Compartir y Divertirme!!!
+- Me gustan los desafios, Escuchar musica, Problemas Logicos, Ayudar y que me ayuden
 
 ### 💡 Metas Cumplidas:
 - Graduarme del <A HREF="http://www.tecnica35.com.ar"> Colegio Técnico </A> 
