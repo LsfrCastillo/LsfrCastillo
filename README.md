@@ -21,7 +21,6 @@
 ### 🎯 Objetivos
 - Mejorar mi Ingles
 - Encontrar Trabajo IT
-- Terminar mi Videojuego
 
 ![1625564175_70471_1608988291_4b0cdca7e52266bcddc8728f70975154](https://user-images.githubusercontent.com/90658639/133524837-90ac52c6-8a52-41b1-9bd2-d9e6e8914738.gif)
 
