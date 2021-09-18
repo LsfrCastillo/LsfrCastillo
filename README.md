@@ -9,7 +9,7 @@
 
 ### 💡 Metas Cumplidas:
 - Graduarme del <A HREF="http://www.tecnica35.com.ar"> Colegio Técnico </A> 
-- Aprender SQL, Unity y HTML/CSS 
+- Aprender SQL, Unity y HTML/CSS por mi cuenta
 - Realizar un VideoJuego en Unity
 
 ### ⚡ Logros Importantes
