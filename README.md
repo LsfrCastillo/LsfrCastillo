@@ -5,11 +5,10 @@
 - JavaScript
 
 ### 😍 Cosas que me gustan:
-- Me gustan los desafios, Escuchar musica, Problemas Logicos, Ayudar y que me ayuden
+- Me gustan los desafios, Escuchar musica, Problemas Logicos, Ayudar y que me ayuden.
 
 ### 💡 Metas Cumplidas:
 - Graduarme del <A HREF="http://www.tecnica35.com.ar"> Colegio Técnico </A> 
-- Aprender SQL, Unity y HTML/CSS por mi cuenta
 - Realizar un VideoJuego en Unity
 
 ### ⚡ Logros Importantes
