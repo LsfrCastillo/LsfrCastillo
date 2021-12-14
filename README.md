@@ -1,8 +1,5 @@
 ¡Bienvenido a mi perfil de GitHub! Soy Luis Castillo, programador de C++/C, C# y mas lenguajes. Cuando no estoy trabajando o programando, Juego con mis amigos o salgo a trotar para despejar mi mente, Me gusta a prender nuevas cosas y me gusta la sensacion de enseñar, ser util para alguien. Me gusta programar y ver el resultado final, Escucho musica de todo tipo de genero mucho mas las que son para bailar (soy malo bailando), me gusta pasar el tiempo con mis amigos y mi familia.
-
 ![Snake animation](https://github.com/Igorcbraz/Igorcbraz/blob/output/github-contribution-grid-snake.svg)
-
-
 ### ✔️ ¿Que estoy estudiando?
 - Python
 - JavaScript
