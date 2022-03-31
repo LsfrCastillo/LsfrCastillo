@@ -1,4 +1,5 @@
 ¡Bienvenido a mi perfil de GitHub! Soy Luis Castillo, programador de C++/C, C# y mas lenguajes. Cuando no estoy trabajando o programando, Juego con mis amigos o salgo a trotar para despejar mi mente, Me gusta a prender nuevas cosas y me gusta la sensacion de enseñar, ser util para alguien. Me gusta programar y ver el resultado final, Escucho musica de todo tipo de genero mucho mas las que son para bailar (soy malo bailando), me gusta pasar el tiempo con mis amigos y mi familia.
+Actualmente estoy trabajando como desarrollador RPA donde utilizo las herramientas UIPATH y Automation Anywhere
 
 ### ✔️ ¿Que estoy estudiando?
 - Python
@@ -9,7 +10,6 @@
 
 ### 💡 Metas Cumplidas:
 - Graduarme del <A HREF="http://www.tecnica35.com.ar"> Colegio Técnico </A> 
-- Realizar un VideoJuego en Unity
 
 ### ⚡ Logros Importantes
 - Creacion de Videojuego
