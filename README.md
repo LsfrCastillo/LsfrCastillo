@@ -2,9 +2,7 @@
 Actualmente estoy trabajando como desarrollador RPA donde utilizo las herramientas UIPATH y Automation Anywhere
 
 ### ✔️ ¿Que estoy estudiando?
-- Python
 - JavaScript
-
 ### 😍 Cosas que me gustan:
 - Me gustan los desafios, Escuchar musica, Problemas Logicos, Ayudar y que me ayuden.
 
@@ -16,10 +14,6 @@ Actualmente estoy trabajando como desarrollador RPA donde utilizo las herramient
 
 ### 🛠 Interesado en:
 - Programar, VideoJuegos, Soporte Tecnico, Mejorar mis habilidades, Pixel Art, Fotografia.
-
-### 🎯 Objetivos
-- Estudiar JavaScript
-- Mejorar mi Ingles
 
 ![1625564175_70471_1608988291_4b0cdca7e52266bcddc8728f70975154](https://user-images.githubusercontent.com/90658639/133524837-90ac52c6-8a52-41b1-9bd2-d9e6e8914738.gif)
 
